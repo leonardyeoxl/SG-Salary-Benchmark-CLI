@@ -1,0 +1,96 @@
+{
+    "june": {
+        "including_employer_cpf": {
+            "2010": {
+                "50th_percentile": 3000,
+                "20th_percentile": 1600
+            },
+            "2011": {
+                "50th_percentile": 3249,
+                "20th_percentile": 1733
+            },
+            "2012": {
+                "50th_percentile": 3480,
+                "20th_percentile": 1740
+            },
+            "2013": {
+                "50th_percentile": 3705,
+                "20th_percentile": 1885
+            },
+            "2014": {
+                "50th_percentile": 3770,
+                "20th_percentile": 1972
+            },
+            "2015": {
+                "50th_percentile": 3949,
+                "20th_percentile": 2012
+            },
+            "2016": {
+                "50th_percentile": 4056,
+                "20th_percentile": 2106
+            },
+            "2017": {
+                "50th_percentile": 4232,
+                "20th_percentile": 2200
+            },
+            "2018": {
+                "50th_percentile": 4437,
+                "20th_percentile": 2340
+            },
+            "2019": {
+                "50th_percentile": 4563,
+                "20th_percentile": 2457
+            },
+            "2020": {
+                "50th_percentile": 4534,
+                "20th_percentile": 2340
+            }
+        },
+        "excluding_employer_cpf": {
+            "2010": {
+                "50th_percentile": 2708,
+                "20th_percentile": 1500
+            },
+            "2011": {
+                "50th_percentile": 2925,
+                "20th_percentile": 1500
+            },
+            "2012": {
+                "50th_percentile": 3000,
+                "20th_percentile": 1563
+            },
+            "2013": {
+                "50th_percentile": 3250,
+                "20th_percentile": 1700
+            },
+            "2014": {
+                "50th_percentile": 3276,
+                "20th_percentile": 1750
+            },
+            "2015": {
+                "50th_percentile": 3467,
+                "20th_percentile": 1800
+            },
+            "2016": {
+                "50th_percentile": 3500,
+                "20th_percentile": 1950
+            },
+            "2017": {
+                "50th_percentile": 3749,
+                "20th_percentile": 2000
+            },
+            "2018": {
+                "50th_percentile": 3800,
+                "20th_percentile": 2000
+            },
+            "2019": {
+                "50th_percentile": 4000,
+                "20th_percentile": 2167
+            },
+            "2020": {
+                "50th_percentile": 4000,
+                "20th_percentile": 2033
+            }
+        }
+    }
+}

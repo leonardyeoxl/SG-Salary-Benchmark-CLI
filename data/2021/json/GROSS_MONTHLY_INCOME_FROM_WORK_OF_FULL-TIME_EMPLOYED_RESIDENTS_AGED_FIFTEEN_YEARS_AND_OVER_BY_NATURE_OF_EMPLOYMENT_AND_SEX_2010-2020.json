@@ -1,0 +1,352 @@
+{
+    "june": {
+        "total": {
+            "including_employer_cpf": {
+                "2010": {
+                    "total": 2817,
+                    "full-time": 3000,
+                    "part-time": 745
+                },
+                "2011": {
+                    "total": 3000,
+                    "full-time": 3249,
+                    "part-time": 800
+                },
+                "2012": {
+                    "total": 3133,
+                    "full-time": 3480,
+                    "part-time": 812
+                },
+                "2013": {
+                    "total": 3364,
+                    "full-time": 3705,
+                    "part-time": 885
+                },
+                "2014": {
+                    "total": 3444,
+                    "full-time": 3770,
+                    "part-time": 928
+                },
+                "2015": {
+                    "total": 3549,
+                    "full-time": 3949,
+                    "part-time": 943
+                },
+                "2016": {
+                    "total": 3680,
+                    "full-time": 4056,
+                    "part-time": 1000
+                },
+                "2017": {
+                    "total": 3803,
+                    "full-time": 4232,
+                    "part-time": 1000
+                },
+                "2018": {
+                    "total": 3949,
+                    "full-time": 4437,
+                    "part-time": 1053
+                },
+                "2019": {
+                    "total": 4095,
+                    "full-time": 4563,
+                    "part-time": 1090
+                },
+                "2020": {
+                    "total": 4095,
+                    "full-time": 4534,
+                    "part-time": 1130
+                }
+            },
+            "excluding_employer_cpf": {
+                "2010": {
+                    "total": 2500,
+                    "full-time": 2708,
+                    "part-time": 700
+                },
+                "2011": {
+                    "total": 2633,
+                    "full-time": 2925,
+                    "part-time": 750
+                },
+                "2012": {
+                    "total": 2800,
+                    "full-time": 3000,
+                    "part-time": 800
+                },
+                "2013": {
+                    "total": 3000,
+                    "full-time": 3250,
+                    "part-time": 800
+                },
+                "2014": {
+                    "total": 3000,
+                    "full-time": 3276,
+                    "part-time": 827
+                },
+                "2015": {
+                    "total": 3125,
+                    "full-time": 3467,
+                    "part-time": 850
+                },
+                "2016": {
+                    "total": 3250,
+                    "full-time": 3500,
+                    "part-time": 938
+                },
+                "2017": {
+                    "total": 3300,
+                    "full-time": 3749,
+                    "part-time": 1000
+                },
+                "2018": {
+                    "total": 3467,
+                    "full-time": 3800,
+                    "part-time": 1000
+                },
+                "2019": {
+                    "total": 3561,
+                    "full-time": 4000,
+                    "part-time": 1000
+                },
+                "2020": {
+                    "total": 3573,
+                    "full-time": 4000,
+                    "part-time": 1000
+                }
+            }
+        },
+        "males": {
+            "including_employer_cpf": {
+                "2010": {
+                    "total": 3000,
+                    "full-time": 3159,
+                    "part-time": 825
+                },
+                "2011": {
+                    "total": 3174,
+                    "full-time": 3441,
+                    "part-time": 830
+                },
+                "2012": {
+                    "total": 3451,
+                    "full-time": 3640,
+                    "part-time": 885
+                },
+                "2013": {
+                    "total": 3654,
+                    "full-time": 3915,
+                    "part-time": 966
+                },
+                "2014": {
+                    "total": 3770,
+                    "full-time": 4000,
+                    "part-time": 1000
+                },
+                "2015": {
+                    "total": 3890,
+                    "full-time": 4118,
+                    "part-time": 1000
+                },
+                "2016": {
+                    "total": 3991,
+                    "full-time": 4241,
+                    "part-time": 1075
+                },
+                "2017": {
+                    "total": 4095,
+                    "full-time": 4437,
+                    "part-time": 1075
+                },
+                "2018": {
+                    "total": 4331,
+                    "full-time": 4680,
+                    "part-time": 1090
+                },
+                "2019": {
+                    "total": 4437,
+                    "full-time": 4810,
+                    "part-time": 1170
+                },
+                "2020": {
+                    "total": 4437,
+                    "full-time": 4719,
+                    "part-time": 1177
+                }
+            },
+            "excluding_employer_cpf": {
+                "2010": {
+                    "total": 2708,
+                    "full-time": 2917,
+                    "part-time": 800
+                },
+                "2011": {
+                    "total": 2917,
+                    "full-time": 3000,
+                    "part-time": 800
+                },
+                "2012": {
+                    "total": 3000,
+                    "full-time": 3250,
+                    "part-time": 800
+                },
+                "2013": {
+                    "total": 3250,
+                    "full-time": 3467,
+                    "part-time": 900
+                },
+                "2014": {
+                    "total": 3263,
+                    "full-time": 3502,
+                    "part-time": 1000
+                },
+                "2015": {
+                    "total": 3467,
+                    "full-time": 3683,
+                    "part-time": 1000
+                },
+                "2016": {
+                    "total": 3500,
+                    "full-time": 3792,
+                    "part-time": 1000
+                },
+                "2017": {
+                    "total": 3675,
+                    "full-time": 3988,
+                    "part-time": 1000
+                },
+                "2018": {
+                    "total": 3792,
+                    "full-time": 4033,
+                    "part-time": 1000
+                },
+                "2019": {
+                    "total": 3967,
+                    "full-time": 4229,
+                    "part-time": 1017
+                },
+                "2020": {
+                    "total": 3900,
+                    "full-time": 4144,
+                    "part-time": 1100
+                }
+            }
+        },
+        "females": {
+            "including_employer_cpf": {
+                "2010": {
+                    "total": 2481,
+                    "full-time": 2863,
+                    "part-time": 692
+                },
+                "2011": {
+                    "total": 2672,
+                    "full-time": 3099,
+                    "part-time": 750
+                },
+                "2012": {
+                    "total": 2839,
+                    "full-time": 3230,
+                    "part-time": 779
+                },
+                "2013": {
+                    "total": 3016,
+                    "full-time": 3480,
+                    "part-time": 836
+                },
+                "2014": {
+                    "total": 3087,
+                    "full-time": 3518,
+                    "part-time": 884
+                },
+                "2015": {
+                    "total": 3248,
+                    "full-time": 3744,
+                    "part-time": 928
+                },
+                "2016": {
+                    "total": 3382,
+                    "full-time": 3803,
+                    "part-time": 936
+                },
+                "2017": {
+                    "total": 3543,
+                    "full-time": 4027,
+                    "part-time": 1000
+                },
+                "2018": {
+                    "total": 3627,
+                    "full-time": 4095,
+                    "part-time": 1023
+                },
+                "2019": {
+                    "total": 3803,
+                    "full-time": 4329,
+                    "part-time": 1075
+                },
+                "2020": {
+                    "total": 3803,
+                    "full-time": 4374,
+                    "part-time": 1090
+                }
+            },
+            "excluding_employer_cpf": {
+                "2010": {
+                    "total": 2188,
+                    "full-time": 2500,
+                    "part-time": 650
+                },
+                "2011": {
+                    "total": 2383,
+                    "full-time": 2708,
+                    "part-time": 700
+                },
+                "2012": {
+                    "total": 2500,
+                    "full-time": 2828,
+                    "part-time": 700
+                },
+                "2013": {
+                    "total": 2700,
+                    "full-time": 3000,
+                    "part-time": 800
+                },
+                "2014": {
+                    "total": 2708,
+                    "full-time": 3125,
+                    "part-time": 800
+                },
+                "2015": {
+                    "total": 2817,
+                    "full-time": 3250,
+                    "part-time": 800
+                },
+                "2016": {
+                    "total": 2979,
+                    "full-time": 3298,
+                    "part-time": 813
+                },
+                "2017": {
+                    "total": 3033,
+                    "full-time": 3500,
+                    "part-time": 900
+                },
+                "2018": {
+                    "total": 3150,
+                    "full-time": 3558,
+                    "part-time": 1000
+                },
+                "2019": {
+                    "total": 3250,
+                    "full-time": 3772,
+                    "part-time": 1000
+                },
+                "2020": {
+                    "total": 3267,
+                    "full-time": 3792,
+                    "part-time": 1000
+                }
+            }
+        }
+    }
+}
